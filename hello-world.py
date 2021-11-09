@@ -1,5 +1,5 @@
-#son=-94
-#if son<0:
+son=-942
+if son<0:
 #    print("Manfiy son")
 #else :
 #    print("Musbat son")
